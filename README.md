@@ -1,6 +1,7 @@
 - 💘 I love  programming in Lua an Java Script
 - 🌱 Every day I perfect my codes
 - 🇷🇴 I'm from Romania
+- 🎶 I like NANE - VALENTINO GARAVANI
 - 📫 Where can you find me: 
   - 📊 Discord : Florin💸#0001
   - 🎪 Discord Server https://discord.gg/DT6aZDU7XC
